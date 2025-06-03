@@ -4,27 +4,27 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f2fbe0;
-  color: #333;
+  background-color: #31e2e2;
+  color: #2deee4;
 }
 
 /* Cabeçalho */
 header {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #4c93af;
+  color: rgb(14, 111, 190);
   padding: 2rem 1rem;
   text-align: center;
 }
 
 /* Navegação */
 nav {
-  background-color: #388e3c;
+  background-color: #000000;
   text-align: center;
   padding: 1rem;
 }
 
 nav a {
-  color: white;
+  color: rgb(7, 7, 7);
   text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
@@ -43,7 +43,7 @@ nav a {
 }
 
 .section h2 {
-  color: #2e7d32;
+  color: #3012b6;
   margin-bottom: 1rem;
 }
 
@@ -53,8 +53,8 @@ nav a {
 
 /* Espaço do aluno */
 .custom-area {
-  background-color: #ffffff;
-  border: 2px dashed #ccc;
+  background-color: #4ed111;
+  border: 2px dashed #36bd15;
   padding: 1rem;
   text-align: center;
   color: #777;
